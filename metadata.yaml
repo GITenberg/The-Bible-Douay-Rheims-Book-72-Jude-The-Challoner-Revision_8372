@@ -1,0 +1,17 @@
+_repo: The-Bible-Douay-Rheims-Book-72-Jude-The-Challoner-Revision_8372
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Jude'
+title: 'The Bible, Douay-Rheims, Book 72: Jude
+
+  The Challoner Revision'
+url: http://www.gutenberg.org/ebooks/8372
